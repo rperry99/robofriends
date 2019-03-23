@@ -64,5 +64,11 @@ export const robots = [
     name: "Russ Perry",
     username: "rperry99",
     email: "rperry@mail.com"
+  },
+  {
+    id: 12,
+    name: "Tommy Gallagher",
+    username: "tgall",
+    email: "twig@mail.com"
   }
 ];
